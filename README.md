@@ -17,6 +17,7 @@
   <img align="center" alt="Vini-NodeJs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Vini-Mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Vini-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Vini-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 <br>
       Utilizo diversas tecnologias na área de TI, abrangendo desenvolvimento web, back-end e bancos de dados. No front-end, trabalho com HTML, CSS e JavaScript para criar interfaces dinâmicas e responsivas. No back-end, utilizo PHP, Node.js, C# e Python para desenvolvimento de sistemas e APIs. Para bancos de dados, uso SQL, garantindo armazenamento eficiente e manipulação de dados. Com esse conjunto de ferramentas, consigo desenvolver aplicações completas e escaláveis.
