@@ -3,7 +3,7 @@
 
 • Curso Técnico Etec - Informática para Internet (2023 - 2024)
 
-• Graduação Tecnológica UMC - Análise e Desenvolvivmento de Sistemas (Em andamento)
+• Graduação Tecnológica UMC - Análise e Desenvolvimento de Sistemas (Em andamento)
 
 ## Meus recursos tecnológicos:
 
