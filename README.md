@@ -1,5 +1,5 @@
 ## Olá, me chamo Vinicius👋😁
-### Desenvolvedor Web | Criando soluções eficientes e bem estruturadas.
+### Desenvolvedor de Software | Criando soluções eficientes e bem estruturadas.
 
 • Curso Técnico Etec - Informática para Internet (2023 - 2024)
 
